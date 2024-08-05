@@ -2,7 +2,7 @@
 
 class Qno2
 {
-    static void Main()
+   /* static void Main()
     {
         
         Console.WriteLine("Enter the first integer:");
@@ -20,5 +20,5 @@ class Qno2
         // Display the result
         Console.WriteLine("The sum of the three integers is: " + sum);
         Console.ReadKey();
-    }
+    }*/
 }
