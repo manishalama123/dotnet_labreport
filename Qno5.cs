@@ -8,7 +8,7 @@ namespace dotnet_labreport
 {
     internal class Qno5
     {
-       public static void Main(string[] args)
+      /* public static void Main(string[] args)
         {
             Console.WriteLine("Enter the first number:");
             double num1 = Convert.ToDouble(Console.ReadLine());
@@ -61,6 +61,6 @@ namespace dotnet_labreport
                 
             }
             Console.ReadKey();
-        }
+        }*/
     }
 }
