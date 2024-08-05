@@ -5,7 +5,7 @@ namespace dotnet_labreport
 {
     internal class Qno3
     {
-        static void Main()
+        /*static void Main()
         {
             
             Console.WriteLine("Enter your name:");
@@ -25,6 +25,6 @@ namespace dotnet_labreport
             Console.WriteLine("Address: " + address);
             Console.WriteLine("Email: " + email);
             Console.ReadKey();
-        }
+        }*/
     }
 }
