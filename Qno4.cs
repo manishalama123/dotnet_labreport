@@ -8,7 +8,7 @@ namespace dotnet_labreport
 {
     internal class Qno4
     {
-        static void Main()
+        /*static void Main()
         {
             
             Console.WriteLine("Enter the principal amount:");
@@ -28,6 +28,6 @@ namespace dotnet_labreport
             // Display the result
             Console.WriteLine("The simple interest is: " + simpleInterest);
             Console.ReadKey();
-        }
+        }*/
     }
 }
