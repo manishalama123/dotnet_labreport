@@ -51,6 +51,7 @@
     <Compile Include="Qno5.cs" />
     <Compile Include="Qno6.cs" />
     <Compile Include="Qno7.cs" />
+    <Compile Include="Qno8.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
