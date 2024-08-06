@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Qno1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Qno10.cs" />
+    <Compile Include="Qno11.cs" />
     <Compile Include="Qno2.cs" />
     <Compile Include="Qno3.cs" />
     <Compile Include="Qno4.cs" />
@@ -52,6 +54,7 @@
     <Compile Include="Qno6.cs" />
     <Compile Include="Qno7.cs" />
     <Compile Include="Qno8.cs" />
+    <Compile Include="Qno9.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

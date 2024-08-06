@@ -20,7 +20,7 @@ namespace dotnet_labreport
             return new string(charArray);
             
         }
-        static void Main(string[] args)
+       /* static void Main(string[] args)
         {
            
             Console.Write("Enter a string: ");
@@ -28,7 +28,7 @@ namespace dotnet_labreport
             string reversed = Reverse(input);
             Console.WriteLine($"Reversed string: {reversed}");
             Console.ReadKey();
-        }
+        }*/
 
     }
 }
