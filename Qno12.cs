@@ -3,10 +3,10 @@ using System.Linq;
 
 class Program
 {
-  /*  static void Main()
+   static void Main()
     {
         // Input number of marks
-        Console.Write("Enter the number of .NET technology marks: ");
+        Console.Write("Enter the number of student to compare .NET technology marks: ");
         int numMarks = int.Parse(Console.ReadLine());
 
         // Initialize array to store marks
@@ -28,5 +28,6 @@ class Program
         Console.WriteLine($"\nMinimum mark: {minMark}");
         Console.WriteLine($"Maximum mark: {maxMark}");
         Console.WriteLine($"Average mark: {averageMark:F2}");
-    }*/
+        Console.ReadKey();
+    }
 }
