@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace dotnet_labreport
+namespace Manisha
 {
     internal class Qno1
     {

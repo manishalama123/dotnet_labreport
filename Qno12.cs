@@ -3,7 +3,7 @@ using System.Linq;
 
 class Program
 {
-   static void Main()
+  /* static void Main()
     {
         // Input number of marks
         Console.Write("Enter the number of student to compare .NET technology marks: ");
@@ -29,5 +29,5 @@ class Program
         Console.WriteLine($"Maximum mark: {maxMark}");
         Console.WriteLine($"Average mark: {averageMark:F2}");
         Console.ReadKey();
-    }
+    }*/
 }

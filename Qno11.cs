@@ -18,12 +18,12 @@ class MatrixMultiplication
 
         // Perform matrix multiplication
         int[,] result = MultiplyMatrices(matrixA, matrixB);
-
+        Console.WriteLine("The multiplication of matrix is:");
         // Print the result
         PrintMatrix(result);
         Console.ReadKey();
-    }
-    */
+    }*/
+   
     static int[,] MultiplyMatrices(int[,] a, int[,] b)
     {
         int rowsA = a.GetLength(0);

@@ -43,6 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="lab2_Q11.cs" />
+    <Compile Include="lab2_Q5.cs" />
+    <Compile Include="lab2_Q3_1st.cs" />
+    <Compile Include="lab2_Q1.cs" />
+    <Compile Include="lab2_Q2.cs" />
+    <Compile Include="lab2_Q3_2nd.cs" />
+    <Compile Include="lab2_Q4_heirarchical.cs" />
+    <Compile Include="lab2_Q4_multilevel.cs" />
+    <Compile Include="lab2_Q4_multiple.cs" />
+    <Compile Include="lab2_Q4_single.cs" />
+    <Compile Include="lab2_Q6_constructor.cs" />
+    <Compile Include="lab2_Q7.cs" />
+    <Compile Include="lab2_Q8.cs" />
+    <Compile Include="lab2_Q10.cs" />
+    <Compile Include="lab2_Q9.cs" />
     <Compile Include="Qno1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Qno10.cs" />

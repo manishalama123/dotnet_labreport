@@ -2,7 +2,7 @@
 
 class Qno2
 {
-   /* static void Main()
+   /*static void Main()
     {
         
         Console.WriteLine("Enter the first integer:");
